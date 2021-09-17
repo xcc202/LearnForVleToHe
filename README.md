@@ -1,5 +1,4 @@
-# >> 自用 vless heroku<< 
-
+# >> 自用 vless heroku<<  改自 bclswl0827/v2ray-heroku
 ## 概述
 
 本专案用于在 Heroku 上部署 V2Ray WebSocket，在合理使用的程度下，本镜像不会因为大量占用资源而导致封号。
