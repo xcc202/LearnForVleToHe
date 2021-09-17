@@ -6,7 +6,7 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "e962e7e5-c419-5633-8da0-84439f313d3e"
+            "value": "00000000-0000-0000-0000-000000000000"
         },
         "WSPATH": {
             "description": "WebSocket Path",
