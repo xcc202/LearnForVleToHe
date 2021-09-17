@@ -1,0 +1,17 @@
+
+{
+    "name": "V2",
+    "description": "Deploy V2ray VLESS on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "e962e7e5-c419-5633-8da0-84439f313d3e"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "stack": "container"
+}
